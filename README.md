@@ -7,4 +7,4 @@ factorial of a number,
 perfect square,
 reversing of numbers,
 leap year or not,
-palindrome or not,
+palindrome or not
